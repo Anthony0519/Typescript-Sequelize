@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon build/sequelize2/server.js",
-    "dev": "ts-node-dev --respawn --transpile-only src/sequelize2/server.ts"
+    "dev": "ts-node-dev --respawn --transpile-only src/sequelize1/server.ts"
   },
   "keywords": [],
   "author": "",
